@@ -3,6 +3,8 @@
     windows_subsystem = "windows"
 )]
 
+use app_lib::AppBuilder;
+
 pub fn main() {
-    app::AppBuilder::new().run();
+    AppBuilder::new().run();
 }

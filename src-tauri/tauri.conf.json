@@ -20,7 +20,9 @@
       "externalBin": [],
       "icon": [
         "icons/logo.ico",
-        "icons/icon.ico"
+        "icons/icon.ico",
+        "icons/logo.png",
+        "icons/icon.png"
       ],
       "identifier": "com.seedse.net",
       "longDescription": "",
